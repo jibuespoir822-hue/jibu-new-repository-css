@@ -2,6 +2,7 @@ h1{
     background-color: rgb(68, 20, 158);
     border: 2px solid black;
     color: yellow;
+    text-align: center;
 }
 p1{
     color: rgb(216, 142, 13);
@@ -25,4 +26,7 @@ html{
 }
 h3{
     background-color: darkgreen;
+}
+body{
+    text-align: center;
 }
